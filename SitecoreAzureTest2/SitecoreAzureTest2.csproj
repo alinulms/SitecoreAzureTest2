@@ -113,6 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\sitecoreazuretest2-cm - Web Deploy.pubxml" />
+    <Content Include="Views\MyView2.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
